@@ -4,12 +4,12 @@
 
 <div align="center">
 
-[![profile](https://img.shields.io/badge/-Profile-red?style=for-the-badge)](#profile)
-[![projects](https://img.shields.io/badge/-Projects-red?style=for-the-badge)](#projects)
-[![skills](https://img.shields.io/badge/-Skills-red?style=for-the-badge)](#skills)
-[![experience](https://img.shields.io/badge/-Experience-red?style=for-the-badge)](#experience)
-[![education](https://img.shields.io/badge/-Education-red?style=for-the-badge)](#education)
-[![hobbies](https://img.shields.io/badge/-Hobbies-red?style=for-the-badge)](#hobbies)
+[![profile](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](#profile)
+[![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+[![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+[![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+[![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+[![hobbies](https://img.shields.io/badge/-Hobbies-blue?style=for-the-badge)](#hobbies)
 
 </div>
 
@@ -35,21 +35,23 @@ I have recently completed an intensive training at [Makers Academy](https://make
 I wish to work for a mission-led company committed to innovation and diversity. I hope to collaborate on impactful projects as part of a fun, encouraging team where I can continue growing my skills. As someone who values empathy, ethics and social justice, I aim to leverage my technical and legal expertise to expand access to technology for the benefit of society.
 
 ## Projects
+| Name      | Description                                                                                                                                                    | Tech/tools                                                                    | How to access                                                   |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Gig Guru  | A music event finding app inspired by iTunes (final project) - allows users to find events happening in the UK, like the events, and view their exact location | React, Jest, HTML/CSS, Cypress, Discovery API, Google Maps API, MongoDB Atlas | [Github Repo ↗](https://github.com/aliceswood/gig-guru)         |
+| Acebook   | Inherited a Facebook clone that was built as part of the week 8-9 Makers engineering group project                                                             | MongoDB, Express, React, Node.js, Cypress, Ruby                               | [Github Repo ↗](https://github.com/cshjp/acebook-team-earth)    |
+| MakersBnb | Redesigned Airbnb clone built as part of the week 6 Makers group project                                                                                       | Ruby, Sinatra, PostgreSQL, Capybara, RSpec                                    | [Github Repo ↗](https://github.com/csanann/makersbnb-ruby-seed) |
 
-| Name                         | Description       | Tech/tools        |How to access|
-| ---------------------------- | ----------------- | ----------------- |             |
-| **Gig Guru**            | A music event finding app inspired by Itunes (final project)- allows users to find events happening in the UK, like the events and view their exact location | React, Jest, HTML/CSS, Crypress, Discovery API, Google Maps API, MongoDB Atlas | [Github Repo] (https://github.com/aliceswood/gig-guru)|
-| **Acebook** | Inherited a Facebook clone which was built as part of the week 8-9 Makers engineering group project | MongoDB, Express, React, Nodejs, Cypress,Ruby |  [Github Repo](https://github.com/cshjp/acebook-team-earth)           |
-| **MakersBnb**            | Redesigned AirBnb clone built as part of the week 6 Makers group project. | Ruby, Sinatra, PostgreSQL, Capybara, RSpec |                  |[Github Repo](https://github.com/csanann/makersbnb-ruby-seed)
-|_______________________________________________________________|
+
 
 ## Skills
 
 ## Technical skills
 
-| **Purpose** | **Languages** | **Front end frameworks** | **API frameworks** |**Databases** |**Unit testing frameworks** |**Front end testing frameworks** |**Code Coverage** | **Hosting** |**Styling** |
-| ---------------------------- | ------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |------------------ |
-|**Technology**| Javascript, Ruby   | React | Express |MongoDB, PostgreSQL | Rspec, Jest | Cypress | Jest, Rubocop | Heroku | CSS |
+| Purpose    | Languages        | Front end frameworks | API frameworks | Databases           | Unit testing frameworks | Front end testing frameworks | Code Coverage | Hosting | Styling |
+| ---------- | ---------------- | -------------------- | -------------- | ------------------- | ----------------------- | ---------------------------- | ------------- | ------- | ------- |
+| Technology | Javascript, Ruby | React                | Express        | MongoDB, PostgreSQL | Rspec, Jest             | Cypress                      | Jest, Rubocop | Heroku  | CSS     |
+
+
 
 ## Experience
 
@@ -61,6 +63,7 @@ I wish to work for a mission-led company committed to innovation and diversity. 
 - Automating the data formatting pipeline by pushing aggregated data to the OpenAI endpoint to ensure all records return consistent.
 - Working with CTO on product roadmap and engaging in paired programming to enhance my technical knowledge of the stack used.
 
+
 #### LegaInfoHero 
 **Developer, Co-Founder (Voluntary) (July 2023 to Present)**
 
@@ -69,6 +72,7 @@ Inspired by FlightInfoHero, I started working on a platform where legal advice f
 - Designed form wizards that ask users a set of legal questions anonymously, then checks backend to automatically return advice.
 - Conducted research on Facebook groups and spoke to family and friends to better understand their grievances with the legal system.
 
+
 #### VLS Solicitors 
 **Trainee Solicitor -> Solicitor (June 2021 to July 2022)** 
 
@@ -76,6 +80,7 @@ At VLS, I specialised in Immigration, Civil Litigation, and Family Law as a Trai
 - Assisting clients on legal matters such as entry clearance, leave to remain, visa extensions, naturalisation, and revocation of deportation orders. Handling first-tier and upper tribunal appeals. Keeping the firm updated on immigration law and policy changes.
 - Training and managing caseworkers and work experience students, tracking their progress and identifying areas for improvement.
 - Demonstrated proactive attitude by continuously seeking top-up training, improving commercial awareness through reading articles and seeking new responsibilities in the firm. Exercised efficient time management and developed the ability to work under pressure.
+
 
 ## Non-technical skills
 
@@ -93,6 +98,7 @@ Through my background and intensive programming trainning at Makers Academy and 
 </p>
 </details>
 
+
 #### Project management 
 
 <details><summary>Click to read</summary>
@@ -103,6 +109,7 @@ Through my background and intensive programming trainning at Makers Academy and 
 </ul>
 </p>
 </details>
+
 
 #### Presenting and communicating
 
@@ -115,6 +122,7 @@ Through my background and intensive programming trainning at Makers Academy and 
 </ul>
 </p>
 </details>
+
 
 #### Teamwork and interpersonal skills
 
@@ -140,11 +148,13 @@ Other transferrable skills include: Critical thinking, Problem solving, Data ana
 - Independent learner and problem-solver
 - Experience with MVC and DDD framework patterns 
 
+
 #### HyperionDev (December 2022 to March 2023)
 
 - Completed the [Software Engineer Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/) 16 weeks full time course.
 - Learnt the fundamentals skills of backend development and machine learning (Python).
 - Built [Shoe Inventory](https://github.com/Ormeline/shoe-inventory), Shoe Inventory System – Implemented a shoe inventory system in Python that allowed users to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate.
+
 
 ## Hobbies
 
