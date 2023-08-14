@@ -17,12 +17,13 @@
 
 <div align="center">
 
-[![LinkedIn Profile]](https://www.linkedin.com/in/ormeline-luyengi-626491211)
-[![Email]](mailto:luyengiormeline@gmail.com)
-[![CodeWars Profile]](https://www.codewars.com/users/Mellu23)
-[![GitHub Profile]](https://github.com/Ormeline)
+[LinkedIn Profile ↗](https://www.linkedin.com/in/ormeline-luyengi-626491211)
+[Email](mailto:luyengiormeline@gmail.com)
+[CodeWars Profile ↗](https://www.codewars.com/users/Mellu23)
+[GitHub Profile ↗](https://github.com/Ormeline)
 
 </div>
+
 
 ## Profile
 
@@ -34,13 +35,13 @@ I have recently completed an intensive training at [Makers Academy](https://make
 
 I wish to work for a mission-led company committed to innovation and diversity. I hope to collaborate on impactful projects as part of a fun, encouraging team where I can continue growing my skills. As someone who values empathy, ethics and social justice, I aim to leverage my technical and legal expertise to expand access to technology for the benefit of society.
 
+
 ## Projects
 | Name      | Description                                                                                                                                                    | Tech/tools                                                                    | How to access                                                   |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Gig Guru  | A music event finding app inspired by iTunes (final project) - allows users to find events happening in the UK, like the events, and view their exact location | React, Jest, HTML/CSS, Cypress, Discovery API, Google Maps API, MongoDB Atlas | [Github Repo ↗](https://github.com/aliceswood/gig-guru)         |
 | Acebook   | Inherited a Facebook clone that was built as part of the week 8-9 Makers engineering group project                                                             | MongoDB, Express, React, Node.js, Cypress, Ruby                               | [Github Repo ↗](https://github.com/cshjp/acebook-team-earth)    |
 | MakersBnb | Redesigned Airbnb clone built as part of the week 6 Makers group project                                                                                       | Ruby, Sinatra, PostgreSQL, Capybara, RSpec                                    | [Github Repo ↗](https://github.com/csanann/makersbnb-ruby-seed) |
-
 
 
 ## Skills
@@ -50,7 +51,6 @@ I wish to work for a mission-led company committed to innovation and diversity. 
 | Purpose    | Languages        | Front end frameworks | API frameworks | Databases           | Unit testing frameworks | Front end testing frameworks | Code Coverage | Hosting | Styling |
 | ---------- | ---------------- | -------------------- | -------------- | ------------------- | ----------------------- | ---------------------------- | ------------- | ------- | ------- |
 | Technology | Javascript, Ruby | React                | Express        | MongoDB, PostgreSQL | Rspec, Jest             | Cypress                      | Jest, Rubocop | Heroku  | CSS     |
-
 
 
 ## Experience
