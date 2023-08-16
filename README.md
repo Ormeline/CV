@@ -41,7 +41,7 @@ I wish to work for a mission-led company committed to innovation and diversity. 
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Gig Guru  | A music event finding app inspired by iTunes (final project) - allows users to find events happening in the UK, like the events, and view their exact location | React, Jest, HTML/CSS, Cypress, Discovery API, Google Maps API, MongoDB Atlas | [Github Repo ↗](https://github.com/aliceswood/gig-guru)         |
 | Acebook   | Inherited a Facebook clone that was built as part of the week 8-9 Makers engineering group project                                                             | MongoDB, Express, React, Node.js, Cypress, Ruby                               | [Github Repo ↗](https://github.com/cshjp/acebook-team-earth)    |
-| MakersBnb | Redesigned Airbnb clone built as part of the week 6 Makers group project                                                                                       | Ruby, Sinatra, PostgreSQL, Capybara, RSpec                                    | [Github Repo ↗](https://github.com/csanann/makersbnb-ruby-seed) |
+| MakersBnb | Redesigned Airbnb clone built as part of the week 6 Makers group project                                                                                       | Ruby, Sinatra, PostgreSQL, Capybara, RSpec                                    | [Github Repo ↗](https://github.com/Ormeline/Makersbnb-group-project) |
 
 
 ## Skills
