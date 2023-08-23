@@ -91,8 +91,7 @@ Through my background and intensive programming trainning at Makers Academy and 
 <p>
 <ul>
     <li> As a solicitor, I was entrusted to manage my own caseload as such organisation and meticulous attention to detail were critical in managing case files and legal documents. I developed systems for tracking client information, key dates, and case progress. Reviewing court hearings, supporting documentation and witness statements refined my ability to thoroughly analyse complex documents and pointout inconsistencies. I will bring this same diligence to developer roles in proactively tracking project requirements and maintaining organised code. </li>
-    <li> As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs her project to make sure that I had a clear project vision </li>
-    <li> Example: <a href="https://github.com/Ormeline/bank-tech-test">Bank Tech Test</a></li>
+    <li> As my GitHub projects will demonstrate, I am a meticulous planner who diagrams and designs her project to make sure that I had a clear project vision. For example, in my Bank Tech Test (<a href="https://github.com/Ormeline/bank-tech-test"></a>) I created a diagram to plan out the classes, methods, and interactions needed to implement the bank account features. I also wrote user stories to define the required functionality from the user's perspective. My README outlines the test-driven development approach I followed, ensuring each class and method was fully tested using Jest. The project structure separates classes into individual files, following the single responsibility principle. I believe this project illustrates my ability to plan effectively and deliver a well-organised, fully tested codebase based on that design.</li>
 </ul>
 </p>
 </details>
@@ -146,7 +145,7 @@ Other transferrable skills include: Critical thinking, Problem solving, Data ana
 
 - Completed the [Software Engineer Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/) 16 weeks full time course.
 - Learnt the fundamentals skills of backend development and machine learning (Python).
-- Built [Shoe Inventory](https://github.com/Ormeline/shoe-inventory), Shoe Inventory System – Implemented a shoe inventory system in Python that allowed users to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate.
+- Built a [Shoe Inventory](https://github.com/Ormeline/shoe-inventory) System – Implemented this project in Python. Users are able to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate.
 
 
 ## Hobbies
