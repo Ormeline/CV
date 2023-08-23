@@ -88,7 +88,6 @@ Through my background and intensive programming trainning at Makers Academy and 
 
 #### Organisation and attention to detail
 
-<details><summary>Click to read</summary>
 <p>
 <ul>
     <li> As a solicitor, I was entrusted to manage my own caseload as such organisation and meticulous attention to detail were critical in managing case files and legal documents. I developed systems for tracking client information, key dates, and case progress. Reviewing court hearings, supporting documentation and witness statements refined my ability to thoroughly analyse complex documents and pointout inconsistencies. I will bring this same diligence to developer roles in proactively tracking project requirements and maintaining organised code. </li>
@@ -100,8 +99,6 @@ Through my background and intensive programming trainning at Makers Academy and 
 
 
 #### Project management 
-
-<details><summary>Click to read</summary>
 <p>
 <ul>
     <li> During my time as a solicitor, I honed my project management skills by effectively leading teams of caseworkers and work experience students. I excelled at delegating tasks, closely monitoring progress, and ensuring that court deadlines were met. Additionally, I demostrated my resourcefulness by managing multiple competing priorities within tight deadlines. </li>
@@ -112,8 +109,6 @@ Through my background and intensive programming trainning at Makers Academy and 
 
 
 #### Presenting and communicating
-
-<details><summary>Click to read</summary>
 <p>
 <ul>
     <li> Communication was crucial in my legal career, from persuasively presenting arguments in court to explaining complex legal matters in plain english to clients.</li>
@@ -125,12 +120,10 @@ Through my background and intensive programming trainning at Makers Academy and 
 
 
 #### Teamwork and interpersonal skills
-
-<details><summary>Click to read</summary>
 <p>
 <ul>
     <li> I have gained extensive experience in effective communication and collaboration while working with clients, colleagues, barristers, and solicitors in the legal industry. This background has honed my skills as a proficient communicator and an attentive listener. I developed the ability to actively seek input from others, remain open-minded to different ideas, diplomatically resolve differences, and motivate colleagues towards shared goals. </li>
-    <li> During my time at Makers Academy, I actively participated in pair programming sessions as well as engaging in group projects. Pair programming, in particular, was a significant component of our daily activities, and I thoroughly it. At Molanza Consulting, I often with CTO on product roadmap and engaging in paired programming to enhance my technical knowledge of the stack used. These experiences further enhanced my teamwork abilities and allowed me to thrive in a collaborative environment</li>
+    <li> During my time at Makers Academy, I actively participated in pair programming sessions as well as engaging in group projects. Pair programming, in particular, was a significant component of our daily activities, and I thoroughly enjoyed it. At Molanza Consulting, I often collaborate with CTO on product roadmap and engaging in paired programming to enhance my technical knowledge of the stack used. These experiences further enhanced my teamwork abilities and allowed me to thrive in a collaborative environment</li>
     <li> Understanding the significance of effective pair programming, I took the initiative to documented my own set of guidelines and best practices. This allowed me to consistently improve my approach to pair programming, resulting in stronger pairing sessions and increased productivity. <a href="https://github.com/Ormeline/my-learning-journey-at-Makers/blob/main/weekly-objectives/pair-programming.md">here.</a></li>
 </ul>
 </p>
