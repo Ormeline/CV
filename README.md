@@ -134,16 +134,17 @@ Other transferrable skills include: Critical thinking, Problem solving, Data ana
 
 #### Makers Academy (March 2023 to July 2023)
 
-- Full stack web development 
-- Focus on Test Driven Development, with an emphasis on paring to problemsolve effeciently and working in an agile way. Required team work and effective communication
+- Full stack web development
+- Focus on Test Driven Development, with an emphasis on pairing to problem solve efficiently and working in an agile way. Required team work and effective communication
 - Object Oriented Programming & software design
 - Independent learner and problem-solver
-- Experience with MVC and DDD framework patterns 
+- Experience with MVC and DDD framework patterns
+
 
 
 #### HyperionDev (December 2022 to March 2023)
 
-- Completed the [Software Engineer Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/) 16 weeks full time course.
+- Completed the [Software Engineer Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/) 13 weeks full time course.
 - Learnt the fundamentals skills of backend development and machine learning (Python).
 - Built a [Shoe Inventory](https://github.com/Ormeline/shoe-inventory) System – Implemented this project in Python. Users are able to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate.
 
