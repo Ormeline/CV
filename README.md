@@ -146,7 +146,11 @@ Other transferrable skills include: Critical thinking, Problem solving, Data ana
 
 - Completed the [Software Engineer Bootcamp](https://www.hyperiondev.com/bootcamps/software-engineering/) 13 weeks full time course.
 - Learnt the fundamentals skills of backend development and machine learning (Python).
-- Built a [Shoe Inventory](https://github.com/Ormeline/shoe-inventory) System – Implemented this project in Python. Users are able to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate.
+- Built a [Shoe Inventory](https://github.com/Ormeline/shoe-inventory) System – Implemented this project in Python. Users are able to view shoes, add shoes, search for shoes and restock shoes. Stored shoe objects in a list. Used text file to read and write data. Formatted tables with python-tabulate. 
+- Practiced input/output operations for interacting with external data sources like files. 
+- Gained introductory natural language processing skills like semantic similarity analysis using spaCy library. 
+- Completed capstone projects to integrate learnings from data structures, OOP, databases and error handling and more
+
 
 
 ## Hobbies
