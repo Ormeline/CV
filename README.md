@@ -31,7 +31,7 @@ I am a diligent and quick-learning software engineer, who is passionate about le
 
 After completing law school, I spent years honing my analytical skills and attention to detail as a paralegal and solicitor specialising in immigration law, family law and civil litigation.
 
-I have recently completed an intensive training at [Makers Academy](https://makers.tech) and [HyperionDev] (https://www.hyperiondev.com/bootcamps/software-engineering/) (London's leading bootcamp providers) to successfully transition into software engineering and make my dream of becoming a developer a reality.
+I have recently completed an intensive training at [Makers Academy](https://makers.tech) and [HyperionDev](https://www.hyperiondev.com/bootcamps/software-engineering/) (London's leading bootcamp providers) to successfully transition into software engineering and make my dream of becoming a developer a reality.
 
 I wish to work for a mission-led company committed to innovation and diversity. I hope to collaborate on impactful projects as part of a fun, encouraging team where I can continue growing my skills. As someone who values empathy, ethics and social justice, I aim to leverage my technical and legal expertise to expand access to technology for the benefit of society.
 
