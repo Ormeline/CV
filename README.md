@@ -84,7 +84,7 @@ At VLS, I specialised in Immigration, Civil Litigation, and Family Law as a Trai
 
 ## Non-technical skills
 
-Through my background and intensive programming trainning at Makers Academy and HyperionDev, I have developed a versatile skillset combining technical programming skills and interpersonal abilities that make me a strong candidate for Software Developer roles. Additionally, my legal career has enabled me to develop skills that can add value to any organisation: 
+Through my background and intensive programming training at Makers Academy and HyperionDev, I have developed a versatile skillset combining technical programming skills and interpersonal abilities that make me a strong candidate for Software Developer roles. Additionally, my legal career has enabled me to develop skills that can add value to any organisation: 
 
 #### Organisation and attention to detail
 
@@ -100,7 +100,7 @@ Through my background and intensive programming trainning at Makers Academy and 
 #### Project management 
 <p>
 <ul>
-    <li> During my time as a solicitor, I honed my project management skills by effectively leading teams of caseworkers and work experience students. I excelled at delegating tasks, closely monitoring progress, and ensuring that court deadlines were met. Additionally, I demostrated my resourcefulness by managing multiple competing priorities within tight deadlines. </li>
+    <li> During my time as a solicitor, I honed my project management skills by effectively leading teams of caseworkers and work experience students. I excelled at delegating tasks, closely monitoring progress, and ensuring that court deadlines were met. Additionally, I demonstrated my resourcefulness by managing multiple competing priorities within tight deadlines. </li>
     <li>Through participation in bootcamp group projects, I had the opportunity to refine my skills in agile practices such as sprint planning, task boards, retrospectives, and continuous delivery. This experience has equipped me with the ability to keep engineering teams aligned and ensure the delivery of high-quality code. </li>
 </ul>
 </p>
