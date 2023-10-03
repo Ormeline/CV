@@ -3,12 +3,14 @@
 ## Navigation
 
 <div align="center">
+
 [![profile](https://img.shields.io/badge/-Profile-blue?style=for-the-badge)](#profile)
 [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
 [![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
 [![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
 [![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
 [![hobbies](https://img.shields.io/badge/-Hobbies-blue?style=for-the-badge)](#hobbies)
+
 </div>
 
 ## Where you can find me
