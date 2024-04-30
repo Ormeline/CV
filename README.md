@@ -52,24 +52,28 @@ I wish to work for a mission-led company committed to innovation and diversity. 
 
 ## Experience
 
+#### PastPaperHero
+
+**Developer, Co-Founder (Voluntary) (Jan 2024 to Present)**
+
+Inspired by FlightInfoHero, I started working on a ultimate test preparation platform, offering a vast question bank, targeted topic questions, and concise revision notes for effective study. Tasks include:
+
+- Writing scripts to aggregate data with Beautiful Soup and convert it into JSON to facilitate direct import into the NextJS frontend.
+- Conducted research on Facebook groups, Reddit and friends to better understand their grievances with the solicitors qualifying exams.
+- Led product design and strategy, enhancing user experience and educational outcomes.
+- Managed cross-functional teams to align product development with business goals.
+- Implemented data-driven marketing strategies to significantly increase user engagement.
+- Automated the data formatting pipeline by pushing aggregated data to the OpenAI endpoint to ensure all records return consistent.
+- Analysed user feedback and performance data to continuously refine product offerings.
+
 #### Molanza Consulting
 
-**Consultant (Part-Time) (August 2022 - Present)**
+**Consultant (Part-Time) (August 2022 - Dec 2023)**
 
-- Developing FlightInfoHero, an aggregation platform for airport parking, airline baggage allowance, and seat map data. Tasks include:
+- Developing **FlightInfoHero**, an aggregation platform for airport parking, airline baggage allowance, and seat map data. Tasks include:
 - Maintaining Python scripts used for web scraping with Beautiful Soup module to ensure any changes in target websites are reflected.
 - Automating the data formatting pipeline by pushing aggregated data to the OpenAI endpoint to ensure all records return consistent.
 - Working with CTO on product roadmap and engaging in paired programming to enhance my technical knowledge of the stack used.
-
-#### LegaInfoHero
-
-**Developer, Co-Founder (Voluntary) (July 2023 to Present)**
-
-Inspired by FlightInfoHero, I started working on a platform where legal advice from all over the internet is aggregated, made easy to understand with the help of AI and presented freely online to help disadvantaged minorities get access to quality advice. Tasks include:
-
-- Writing scripts to aggregate data with Beautiful Soup and convert it into JSON to facilitate direct import into the NextJS frontend.
-- Designed form wizards that ask users a set of legal questions anonymously, then checks backend to automatically return advice.
-- Conducted research on Facebook groups and spoke to family and friends to better understand their grievances with the legal system.
 
 #### VLS Solicitors
 
